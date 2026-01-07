@@ -1,0 +1,1 @@
+print("Bu ikinci Python dosyası")
